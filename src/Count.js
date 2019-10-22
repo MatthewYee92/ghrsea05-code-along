@@ -5,12 +5,16 @@ export default class Count extends Component {
     count: 0
   };
 
-  increment = state => {
-    this.setState(this.count + 1);
+  increment = () => {
+    this.setState({
+      count: this.state.count + 1
+    });
   };
 
-  decrement = state => {
-    this.setState(this.count - 1);
+  decrement = () => {
+    this.setState({
+      count: this.state.count - 1
+    });
   };
 
   render() {
