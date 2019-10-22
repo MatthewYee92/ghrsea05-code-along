@@ -1,2 +1,8 @@
-# ghrsea05-code-along
-ghrsea05 code along repo 
+
+## Instructions 
+
+```npm i```
+
+To view work :
+
+```npm start```
