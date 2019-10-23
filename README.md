@@ -3,7 +3,7 @@
 
 GHRSEA05 Introduction to Technical Student Presentations. 
 
-Clone the repo down to your terminal. Then :
+Fork down the repo down to your terminal. Then :
 
 ```npm i```
 
